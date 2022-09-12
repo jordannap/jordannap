@@ -8,3 +8,9 @@
 
 📫 How to reach me: j.pensieri@gmail.com
 
+
+
+Connect with me:
+www.linkedin.com/in/jordanna-pensieri-5423b383
+
+
