@@ -8,7 +8,8 @@
 
 
 <h3> Connect with me: </h3> 
-<a href="www.linkedin.com/in/jordanna-pensieri-5423b383" target="_blank">My LinkedIn Profile</a>
+<a href="www.linkedin.com/in/jordanna-pensieri
+" target="_blank">My LinkedIn Profile</a>
 
 <h3>Languages and Tools:</h3>
 <ul>
