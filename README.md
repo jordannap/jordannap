@@ -13,7 +13,6 @@
 
 <h3>Languages and Tools:</h3>
 
-
 <a href="https://rubyonrails.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
