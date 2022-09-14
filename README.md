@@ -1,6 +1,5 @@
 ### <h1>Hi there 👋 I'm Jordanna :relaxed: </h1>
 
-<hr>
 
 🌱 I’m currently improving my knowledge in Javascript and Rails.
 
