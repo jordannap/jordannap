@@ -1,7 +1,7 @@
 ### <h1>Hi there 👋 I'm Jordanna :relaxed: </h1>
 
 
-🌱 I’m currently improving my knowledge in Javascript and Rails.
+🌱 I’m currently improving my knowledge in Javascript, Rails and React.
 
 📫 How to reach me: j.pensieri@gmail.com
 
